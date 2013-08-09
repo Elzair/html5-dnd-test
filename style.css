@@ -1,0 +1,15 @@
+.dnd-el {
+  position: relative;
+  z-index: 1;
+  width: 100px;
+  text-align: center;
+}
+
+.drag {
+  color: rgb(150,150,150);
+  opacity: 0.5;
+}
+
+.drop-area {
+  border-bottom: 2px solid red;
+}
